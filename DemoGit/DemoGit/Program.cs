@@ -11,6 +11,7 @@ namespace DemoGit
         static void Main(string[] args)
         {
             /*This is a demo Git project*/
+            /*This is a demo Git Develop project */
         }
     }
 }
